@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 4.2.6
+
+Update for flutter 3.44.2
+
 ## 4.2.5
 
 ### Fixes
